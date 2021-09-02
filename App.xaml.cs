@@ -1,5 +1,4 @@
-﻿using Trading.Events;
-using Trading.ViewModels;
+﻿using Trading.ViewModels;
 using log4net;
 using log4net.Config;
 using Prism.Events;
