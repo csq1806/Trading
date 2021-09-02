@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="MainWindowTitle">市场行情窗口</system:String>
+    <system:String x:Key="ProductId">产品标识</system:String>
+    <system:String x:Key="BuyQuantities">买入量</system:String>
+    <system:String x:Key="BuyPrice">买入价</system:String>
+    <system:String x:Key="SellPrice">卖出价</system:String>
+    <system:String x:Key="SellQuantities">卖出量</system:String>
+    <system:String x:Key="PlaceOrderWindowTitle">下单窗口</system:String>
+    <system:String x:Key="Quantities">数量</system:String>
+    <system:String x:Key="Price">价格</system:String>
+    <system:String x:Key="Portfolio">投资组合</system:String>
+    <system:String x:Key="Buy">买</system:String>
+    <system:String x:Key="Sell">卖</system:String>
+</ResourceDictionary>

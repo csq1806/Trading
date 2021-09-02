@@ -1,0 +1,16 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="MainWindowTitle">Market Summary Window</system:String>
+    <system:String x:Key="ProductId">Product Id</system:String>
+    <system:String x:Key="BuyQuantities">Bid Size</system:String>
+    <system:String x:Key="BuyPrice">Bid Price</system:String>
+    <system:String x:Key="SellPrice">Offer Price</system:String>
+    <system:String x:Key="SellQuantities">Offer Size</system:String>
+    <system:String x:Key="PlaceOrderWindowTitle">Place Order Window</system:String>
+    <system:String x:Key="Quantities">Quantity</system:String>
+    <system:String x:Key="Price">Price</system:String>
+    <system:String x:Key="Portfolio">Portfolio</system:String>
+    <system:String x:Key="Buy">Buy</system:String>
+    <system:String x:Key="Sell">Sell</system:String>
+</ResourceDictionary>
